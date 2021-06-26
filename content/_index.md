@@ -9,7 +9,7 @@ custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 +++
 
-## logo-example
+## Welcome to Airdb Academy
 
 This presentation shows how to add a logo to each slide, like the GitHub one you see above.
 
