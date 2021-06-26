@@ -1,5 +1,5 @@
 +++
-title = "Logo presentation example"
+title = "Entrytask"
 outputs = ["Reveal"]
 [logo]
 src = "github-logo.png"
@@ -9,15 +9,13 @@ custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 +++
 
-## logo-example
+## Entrytask
 
-This presentation shows how to add a logo to each slide, like the GitHub one you see above.
-
-You can generalize the concept to add any additional markup to your presentations.
+入门任务
 
 ---
 
-[See the code for this presentation](https://github.com/dzello/reveal-hugo/blob/master/exampleSite/content/logo-example)
+Setup wiki
 
 ---
 
