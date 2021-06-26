@@ -21,6 +21,13 @@ dean@airdb.com
 
 ---
 
+## Slide bg-video
+
+<!-- .slide: data-background-video="/demo/videos/Synthwave Animation Loop - Creative Commons-1eHwlmn_Mps.webm" -->
+<!-- .slide: data-background-video-loop="true" -->
+
+---
+
 airdb 目前由一些技术爱好者组成，
 <br>
 通过 Github 来协同工作，
