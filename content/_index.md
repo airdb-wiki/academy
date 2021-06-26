@@ -28,6 +28,17 @@ Welcome to Airdb Academy
 
 ---
 
+Here is where to put partials for different presentations and places in the DOM.
+<br><br>
+
+| Presentation | Before &lt;/head&gt;            | Before &lt;/body&gt;            |
+|--------------|---------------------------------|---------------------------------|
+| All          | reveal-hugo/head.html           | reveal-hugo/body.html           |
+| Root         | home/reveal-hugo/head.html      | home/reveal-hugo/body.html      |
+| Section      | {section}/reveal-hugo/head.html | {section}/reveal-hugo/body.html |
+
+---
+
 # 🤗
 
 That's it.
