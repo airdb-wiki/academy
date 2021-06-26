@@ -1,6 +1,7 @@
 +++
-title = "Logo presentation example"
+title = "Welcome | airdb "
 outputs = ["Reveal"]
+
 [logo]
 src = "github-logo.png"
 
@@ -11,31 +12,42 @@ margin = 0.2
 
 ## Welcome 
 
-Welcome to Airdb Academy
+- What's airdb?
+- What's airdb academy?
+- Culture & Team
+- QA
 
 ---
 
-## Entrytask
+airdb 目前由一些技术爱好者组成，
+<br>
+通过 Github 来协同工作，
+<br>
+给一些 NGO 或公益组织提供免费的技术服务。
 
-1. Setup wiki page
-2. Setup wsl network for windows
-3. Setup git, vscode ide
+--- 
+
+airdb academy 是一项公益项目。 
+
+每年我们会收纳少量大学生加入, academy 则是为这些大学生提供一个学习和成长的空间。
 
 ---
 
-1. Learn Markdown syntax
-2. Learn how to use git
+### 团队文化
 
----
+Better Tech Better Life
 
-Here is where to put partials for different presentations and places in the DOM.
-<br><br>
+- 愿景：通过 向善的心 + 技术公益 创建一个更好的公益社会, 
 
-| Presentation | Before &lt;/head&gt;            | Before &lt;/body&gt;            |
-|--------------|---------------------------------|---------------------------------|
-| All          | reveal-hugo/head.html           | reveal-hugo/body.html           |
-| Root         | home/reveal-hugo/head.html      | home/reveal-hugo/body.html      |
-| Section      | {section}/reveal-hugo/head.html | {section}/reveal-hugo/body.html |
+- 价值观：简单，可依赖
+
+--- 
+
+## FAQ
+
+- 希望加入的您，有一个独立的人格和向善的心。
+- 一切都可以从 0 开始, 有 CS 基础最好。
+- 我们是一个 longterm contribute 的公益组织。
 
 ---
 
