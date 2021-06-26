@@ -3,11 +3,11 @@
 all: mod run
 
 run:
-	hugo server --minify --theme book
+	hugo server --minify --theme reveal-hugo
 
 # Suggest bind 0.0.0.0 for wls network.
 wls win windows:
-	hugo server --bind=0.0.0.0 --port=1313 --minify --theme book 
+	hugo server --bind=0.0.0.0 --port=1313 --minify --theme reveal-hugo
 
 mod:
 	git init -b main
