@@ -1,5 +1,7 @@
 theme = "reveal-hugo"
 
+baseURL = 'https://airdb.dev/hugo-book'
+
 [markup.goldmark.renderer]
 unsafe = true
 
