@@ -23,7 +23,7 @@ dean@airdb.com
 
 ## Slide bg-video
 
-<!-- .slide: data-background-video="/demo/videos/Synthwave Animation Loop - Creative Commons-1eHwlmn_Mps.webm" -->
+<!-- .slide: data-background-video="Synthwave Animation Loop - Creative Commons-1eHwlmn_Mps.webm" -->
 <!-- .slide: data-background-video-loop="true" -->
 
 ---
