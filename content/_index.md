@@ -11,11 +11,20 @@ margin = 0.2
 
 ## Welcome to Airdb Academy
 
-This presentation shows how to add a logo to each slide, like the GitHub one you see above.
-
-You can generalize the concept to add any additional markup to your presentations.
+欢迎加入 airdb
 
 ---
+
+## Entrytask
+
+1. Setup wiki page
+2. Setup wsl network for windows
+3. Setup git, vscode ide
+
+---
+
+1. Learn Markdown syntax
+2. Learn how to use git
 
 [See the code for this presentation](https://github.com/dzello/reveal-hugo/blob/master/exampleSite/content/logo-example)
 
