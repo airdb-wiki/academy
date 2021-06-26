@@ -10,6 +10,12 @@ custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 +++
 
+
+<video autoplay muted loop height="100%" width="100%"  controls controlslist="nodownload fullscreen">
+<source id="webm" src="https://raw.githubusercontent.com/sacproj/demo/main/docs/videos/Synthwave%20Animation%20Loop%20-%20Creative%20Commons-1eHwlmn_Mps.webm" type="video/webm">
+</video>
+
+--- 
 ## Welcome 
 
 - What's airdb?
@@ -19,19 +25,10 @@ margin = 0.2
 
 dean@airdb.com
 
----
 
-## Slide bg-video
-
-<!-- .slide: data-background-video="Synthwave Animation Loop - Creative Commons-1eHwlmn_Mps.webm" -->
-<!-- .slide: data-background-video-loop="true" -->
 
 ---
-
-airdb 目前由一些技术爱好者组成，
-<br>
-通过 Github 来协同工作，
-<br>
+airdb 目前由一些技术爱好者组成， <br> 通过 Github 来协同工作， <br>
 给一些 NGO 或公益组织提供免费的技术服务。
 
 --- 
