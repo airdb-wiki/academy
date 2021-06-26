@@ -17,6 +17,8 @@ margin = 0.2
 - Culture & Team
 - QA
 
+dean@airdb.com
+
 ---
 
 airdb 目前由一些技术爱好者组成，
@@ -37,7 +39,7 @@ airdb academy 是一项公益项目。
 
 Better Tech Better Life
 
-- 愿景：通过 向善的心 + 技术公益 创建一个更好的公益社会, 
+- 愿景：通过 向善的心 + 技术公益 创建一个更好的公益社会
 
 - 价值观：简单，可依赖
 
