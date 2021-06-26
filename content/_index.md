@@ -9,9 +9,9 @@ custom_theme = "reveal-hugo/themes/robot-lung.css"
 margin = 0.2
 +++
 
-## Welcome to Airdb Academy
+## Welcome 
 
-欢迎加入 airdb
+Welcome to Airdb Academy
 
 ---
 
@@ -25,8 +25,6 @@ margin = 0.2
 
 1. Learn Markdown syntax
 2. Learn how to use git
-
-[See the code for this presentation](https://github.com/dzello/reveal-hugo/blob/master/exampleSite/content/logo-example)
 
 ---
 
