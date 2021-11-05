@@ -23,10 +23,10 @@ jobs:
 
       - name: Run Hugo
         run: |
-        pwd
-        ls
-        hugo -D --minify
-        ls
+          pwd
+          ls
+          hugo -D --minify
+          ls
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
