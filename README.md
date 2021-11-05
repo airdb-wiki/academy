@@ -1,5 +1,5 @@
-# academy
+# Academy
 Slides for Learning
 
-
-https://github.com/dzello/reveal-hugo/tree/master/exampleSite
+Refer:
+- https://github.com/dzello/reveal-hugo/tree/master/exampleSite

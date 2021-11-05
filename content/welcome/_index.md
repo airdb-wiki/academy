@@ -18,8 +18,8 @@ margin = 0.2
 --- 
 ## Welcome 
 
-- What's airdb?
-- What's airdb academy?
+- Who we are?
+- What's academy?
 - Culture & Team
 - QA
 
@@ -28,12 +28,12 @@ dean@airdb.com
 
 
 ---
-airdb 目前由一些技术爱好者组成， <br> 通过 Github 来协同工作， <br>
-给一些 NGO 或公益组织提供免费的技术服务。
+目前由一些技术爱好者组成， <br> 通过 Github 来协同工作， <br>
+免费为 NGO 或公益组织提供技术服务。
 
 --- 
 
-airdb academy 是一项公益项目。 
+academy 是一项公益项目。 
 
 每年我们会收纳少量大学生加入, academy 则是为这些大学生提供一个学习和成长的空间。
 
