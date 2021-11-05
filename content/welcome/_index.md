@@ -15,8 +15,21 @@ margin = 0.2
 <source id="webm" src="https://raw.githubusercontent.com/sacproj/demo/main/docs/videos/Synthwave%20Animation%20Loop%20-%20Creative%20Commons-1eHwlmn_Mps.webm" type="video/webm">
 </video>
 
---- 
-## Welcome 
+---
+
+## Welcome
+
+Period: 5th
+
+| Nickname     | Github | Directions | comment      |
+| ------------ | ------ | ---------- | ------------ |
+| 小耗子杰瑞   |        | BE, Java   | Group Leader |
+| 卡列宁的微笑 |        | FE         | Experienced  |
+|              |
+
+---
+
+## Main Parts
 
 - Who we are?
 - What's academy?
