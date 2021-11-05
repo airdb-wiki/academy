@@ -21,7 +21,7 @@ margin = 0.2
 - Who we are?
 - What's academy?
 - Culture & Team
-- QA
+- FAQ
 
 dean@airdb.com
 
@@ -33,19 +33,23 @@ dean@airdb.com
 
 --- 
 
-academy 是一项公益项目。 
+academy 是一个我们的学习园地，
 
-每年我们会收纳少量大学生加入, academy 则是为这些大学生提供一个学习和成长的空间。
+因为每年我们都会吸纳新的公益人，
+
+他们中很多是来自大学生，
+
+academy 则是为这些大学生提供一个学习和成长的空间。
 
 ---
 
 ### 团队文化
 
-Better Tech Better Life
+- 愿景：Better Tech Better Life
 
-- 愿景：通过 向善的心 + 技术公益 创建一个更好的公益社会
+- 价值观：简单，可依赖(对内), 技术改变公益（对外）
 
-- 价值观：简单，可依赖
+- 价值观：持续公益，长期公益
 
 --- 
 
@@ -53,7 +57,7 @@ Better Tech Better Life
 
 - 希望加入的您，有一个独立的人格和向善的心。
 - 一切都可以从 0 开始, 有 CS 基础最好。
-- 我们是一个 longterm contribute 的公益组织。
+- 我们是一个 long term contribute 的公益组织。
 
 ---
 
@@ -61,4 +65,4 @@ Better Tech Better Life
 
 That's it.
 
-Happy airdb life!
+Happy new journey!
