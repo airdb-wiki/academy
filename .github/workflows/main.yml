@@ -22,7 +22,6 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        working-directory: ./
         run: hugo -D --minify
 
       - name: Deploy
