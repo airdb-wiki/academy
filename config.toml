@@ -20,7 +20,3 @@ right = "1%" # Overrides diag.
 
 [params.logo]
 src = "airdb-logo.svg"
-
-theme = "moon"
-highlight_theme = "solarized-dark"
-slide_number = true
