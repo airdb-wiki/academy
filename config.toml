@@ -11,7 +11,8 @@ mediaType = "text/html"
 isHTML = true
 
 [logo]
-src = "airdb-logo.svg"
+src = "static/github-logo.png"
+#src = "airdb-logo.svg"
 alt = "" # Alt text. 
 width = "15%" # Size of the file.
 diag = "1%" # How far from the top right should the file be.

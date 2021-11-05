@@ -2,8 +2,8 @@
 title = "Welcome | airdb "
 outputs = ["Reveal"]
 
-[logo]
-src = "github-logo.png"
+#[logo]
+#src = "github-logo.png"
 
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
