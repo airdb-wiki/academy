@@ -1,6 +1,7 @@
 theme = "reveal-hugo"
 
-baseURL = 'https://airdb.dev/academy'
+#baseURL = 'https://airdb.dev/academy'
+baseURL = '/academy'
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -20,4 +21,5 @@ top = "1%" # Overrides diag.
 right = "1%" # Overrides diag.
 
 [params.logo]
-src = "airdb-logo.svg"
+#src = "airdb-logo.svg"
+src = "github-logo.png"
