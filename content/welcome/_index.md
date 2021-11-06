@@ -21,11 +21,11 @@ margin = 0.2
 
 Period: 5th
 
-| Nickname     | Github | Directions | comment      |
-| ------------ | ------ | ---------- | ------------ |
-| 小耗子杰瑞   |        | BE, Java   | Group Leader |
-| 卡列宁的微笑 |        | FE         | Experienced  |
-|              |
+| Nickname     | Github                    | Directions      | comment      |
+| ------------ | ------------------------- | --------------- | ------------ |
+| 小耗子杰瑞   |                           | BE, Java        | Group Leader |
+| 卡列宁的微笑 |                           | FE              | Experienced  |
+| wekeey       | https://github.com/wekeey | BE, PHP, GoLang | Experienced  |
 
 ---
 
